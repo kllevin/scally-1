@@ -1,7 +1,7 @@
 <img src="https://dl.dropboxusercontent.com/s/anlzedtpekcnla7/logo.png" width="211">
 
 
-
+[ ![Codeship Status for kllevin/scally-1](https://codeship.com/projects/1b437c60-ca0b-0132-2642-462805db91a7/status?branch=master)](https://codeship.com/projects/75387)
 
 # Contents
 
@@ -41,7 +41,7 @@ Scally is designed to be configurable, only requiring you to bring in the parts 
 
 
 
-# Demo's 
+# Demo's
 
 *A website—featuring demos of everything in Scally—is coming soon, in the meantime they're CodePen's that can be looked at (work in progress):*
 
