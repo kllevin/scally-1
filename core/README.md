@@ -226,7 +226,7 @@ The most used and powerful Scally mixins are:
 
   @include font-size(24, normal);
   ```
-- [Generate at breakpoints](mixins/_generate-at-breakpoints.scss)
+- [`Generate at breakpoints](mixins/_generate-at-breakpoints.scss)
 
   *some examples:*
   ```
